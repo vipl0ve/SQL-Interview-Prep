@@ -10,6 +10,15 @@ This repository has all the resources used for learning basic and advance SQL an
 * [SQL Tutorial - Learn Basic SQL](http://www.sql-tutorial.net/)
 * [Tutorial Zine - Learn SQL in 20 mintues](https://tutorialzine.com/2016/01/learn-sql-in-20-minutes)
 
+## SQL Coding Practice ##
+* [Stratascratch](https://platform.stratascratch.com/coding)
+* [SQLPad](https://sqlpad.io/questions/)
+* [Hacker Rank](https://www.hackerrank.com/domains/sql)
+* [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+* [W3Resource](https://www.w3resource.com/sql-exercises/)
+* [SQLFiddle](http://sqlfiddle.com/)
+* [TestDome](https://www.testdome.com/d/sql-interview-questions/17)
+
 ## SQL Questions & Answers ##
 * https://github.com/Aafreen29/SQL-Interview-Prep-Question/blob/master/queries.sql
 * https://learnsql.com/blog/common-sql-job-interview-questions/
@@ -24,15 +33,6 @@ This repository has all the resources used for learning basic and advance SQL an
 ## Articles & Blogs##
 * [LearnSQL - CookBook](https://learnsql.com/cookbook/)
 * [LearnSQL - Advance SQL](https://learnsql.com/blog/advanced-sql-constructions-for-data-analyst/)
-
-## SQL Coding Practice ##
-* [Stratascratch](https://platform.stratascratch.com/coding)
-* [SQLPad](https://sqlpad.io/questions/)
-* [Hacker Rank](https://www.hackerrank.com/domains/sql)
-* [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-* [W3Resource](https://www.w3resource.com/sql-exercises/)
-* [SQLFiddle](http://sqlfiddle.com/)
-* [TestDome](https://www.testdome.com/d/sql-interview-questions/17)
 
 ## Dataset ##
 * [Data.gov](https://www.data.gov/)
