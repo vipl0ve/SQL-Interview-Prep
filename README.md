@@ -2,11 +2,12 @@
 This repository has all the resources used for learning basic and advance SQL and preparing for SQL Interviews.
 
 ## SQL Free Courses ##
+* [Udacity - SQL for DAta Analysis](https://classroom.udacity.com/courses/ud198) ~recommended
+* [Mode - SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/) ~recommended
+* [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 * [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 * [Kaggle - Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
-* [Mode - SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
-* [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [SQL Tutorial - Learn Basic SQL](http://www.sql-tutorial.net/)
 * [Tutorial Zine - Learn SQL in 20 mintues](https://tutorialzine.com/2016/01/learn-sql-in-20-minutes)
 
